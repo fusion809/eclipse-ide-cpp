@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: eclipse-ide-java
-Source: https://github.com/mmk2410/eclipse-ide-java
+Upstream-Name: eclipse-ide-cpp
+Source: https://github.com/fusion809/eclipse-ide-cpp
 
 Files: *
 Copyright: Eclipse Project

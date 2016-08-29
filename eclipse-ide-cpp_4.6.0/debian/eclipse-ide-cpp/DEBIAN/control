@@ -1,4 +1,4 @@
-Package: eclipse-ide-java
+Package: eclipse-ide-cpp
 Version: 4.6.0-1
 Architecture: amd64
 Maintainer: Marcel Michael Kapfer <marcelmichaelkapfer@yahoo.co.nz>
@@ -6,5 +6,5 @@ Installed-Size: 166
 Depends: default-jdk | oracle-java7-installer | oracle-java8-installer
 Section: devel
 Priority: optional
-Description: Eclipse IDE Java
+Description: Eclipse IDE C/C++
  A IDE for Java and C/C++, PHP as well
