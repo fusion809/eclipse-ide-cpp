@@ -1,2 +1,2 @@
 #!/bin/sh
-exec /opt/eclipse-ide-java/eclipse
+exec /opt/eclipse-ide-cpp/eclipse
