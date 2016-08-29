@@ -1,4 +1,4 @@
-# eclipse-ide-java
+# eclipse-ide-cpp
 Unofficial .deb Packages of the Eclipse IDE for C/C++ Developers for Ubuntu
 
 ## Adding the ppa to Ubuntu
