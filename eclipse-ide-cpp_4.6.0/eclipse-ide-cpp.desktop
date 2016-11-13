@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Eclipse IDE
 Comment=An IDE for Java, C/C++ and PHP
-Exec=eclipse-ide %u
+Exec=eclipse-ide-cpp %u
 Icon=eclipse
 Terminal=false
 Type=Application
