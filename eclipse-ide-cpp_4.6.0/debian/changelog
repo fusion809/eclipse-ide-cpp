@@ -1,3 +1,7 @@
+eclipse-ide-cpp (4.6.0-1a) xenial; urgency=low
+
+  * Bumping package version
+
 eclipse-ide-cpp (4.6.0-1) xenial; urgency=low
 
   * New package name and source
