@@ -1,6 +1,10 @@
 #!/bin/bash
 
 ## Remove the program folder
-sudo rm -rf /opt/eclipse-ide-cpp
+if [[ -d /opt/eclipse-ide-cpp ]]; then
+  sudo rm -rf /opt/eclipse-ide-cpp
+fi
 
-sudo rm /usr/bin/eclipse-ide
+if [[ -f /usr/bin/eclipse-ide-cpp ]]; then
+  sudo rm /usr/bin/eclipse-ide-cpp
+fi

@@ -2,7 +2,7 @@
 cd /opt/
 
 ## Extract the package
-sudo tar xf /opt/eclipse-cpp*
+sudo tar xf /opt/eclipse-cpp-neon-1a-linux-gtk-x86_64.tar.gz
 
 ## Rename the directory
 sudo mv /opt/eclipse /opt/eclipse-ide-cpp
@@ -11,4 +11,4 @@ sudo mv /opt/eclipse /opt/eclipse-ide-cpp
 sudo rm /opt/eclipse-cpp*
 
 ## Make /usr/bin usable
-sudo mv /usr/bin/eclipse-ide-cpp.sh /usr/bin/eclipse-ide
+sudo mv /usr/bin/eclipse-ide-cpp.sh /usr/bin/eclipse-ide-cpp
