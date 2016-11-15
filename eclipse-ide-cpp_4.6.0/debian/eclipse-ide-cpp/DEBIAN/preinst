@@ -1,7 +1,0 @@
-#!/bin/bash
-cd /opt/
-
-## Download Eclipse from the eclipse servers
-if ! [[ -f eclipse-cpp-neon-1a-linux-gtk-x86_64.tar.gz ]]; then
-  wget -c http://ftp.ussg.iu.edu/eclipse/technology/epp/downloads/release/neon/1a/eclipse-cpp-neon-1a-linux-gtk-x86_64.tar.gz
-fi
